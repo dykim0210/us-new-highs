@@ -1,0 +1,263 @@
+{
+ "as_of": "2026-07-06",
+ "updated_at": "2026-07-06 19:06 KST",
+ "note": "미국 동부시간 기준 장마감(16:00 ET) 이후 자동 수집",
+ "min_cap_b": 2.0,
+ "total_count": 12,
+ "median_cap_b": 245.0,
+ "tape": [
+  {
+   "t": "NVDA",
+   "c": "2.14%"
+  },
+  {
+   "t": "AVGO",
+   "c": "1.80%"
+  },
+  {
+   "t": "JPM",
+   "c": "0.95%"
+  },
+  {
+   "t": "XOM",
+   "c": "0.60%"
+  },
+  {
+   "t": "PLTR",
+   "c": "6.30%"
+  },
+  {
+   "t": "MU",
+   "c": "3.52%"
+  },
+  {
+   "t": "GS",
+   "c": "1.10%"
+  },
+  {
+   "t": "BLK",
+   "c": "0.70%"
+  },
+  {
+   "t": "LRCX",
+   "c": "2.90%"
+  },
+  {
+   "t": "CEG",
+   "c": "3.10%"
+  },
+  {
+   "t": "VST",
+   "c": "4.20%"
+  },
+  {
+   "t": "NRG",
+   "c": "5.05%"
+  }
+ ],
+ "sectors": [
+  {
+   "sector": "Utilities",
+   "count": 3,
+   "cap_sum_b": 215.0,
+   "cap_med_b": 70.0,
+   "total": 105,
+   "ratio": 2.9,
+   "sector_kr": "유틸리티"
+  },
+  {
+   "sector": "Technology",
+   "count": 5,
+   "cap_sum_b": 6520.0,
+   "cap_med_b": 410.0,
+   "total": 760,
+   "ratio": 0.7,
+   "sector_kr": "IT/기술"
+  },
+  {
+   "sector": "Energy",
+   "count": 1,
+   "cap_sum_b": 520.0,
+   "cap_med_b": 520.0,
+   "total": 250,
+   "ratio": 0.4,
+   "sector_kr": "에너지"
+  },
+  {
+   "sector": "Financial",
+   "count": 3,
+   "cap_sum_b": 1160.0,
+   "cap_med_b": 210.0,
+   "total": 880,
+   "ratio": 0.3,
+   "sector_kr": "금융"
+  }
+ ],
+ "hotspots": [
+  {
+   "Sector": "Technology",
+   "Industry": "Semiconductors",
+   "count": 3,
+   "cap_b": 5980.0,
+   "tickers": "NVDA, AVGO, MU"
+  },
+  {
+   "Sector": "Utilities",
+   "Industry": "Utilities-Independent",
+   "count": 2,
+   "cap_b": 120.0,
+   "tickers": "VST, NRG"
+  },
+  {
+   "Sector": "Energy",
+   "Industry": "Oil & Gas Integrated",
+   "count": 1,
+   "cap_b": 520.0,
+   "tickers": "XOM"
+  },
+  {
+   "Sector": "Financial",
+   "Industry": "Asset Management",
+   "count": 1,
+   "cap_b": 150.0,
+   "tickers": "BLK"
+  },
+  {
+   "Sector": "Financial",
+   "Industry": "Banks-Diversified",
+   "count": 1,
+   "cap_b": 800.0,
+   "tickers": "JPM"
+  },
+  {
+   "Sector": "Financial",
+   "Industry": "Capital Markets",
+   "count": 1,
+   "cap_b": 210.0,
+   "tickers": "GS"
+  },
+  {
+   "Sector": "Technology",
+   "Industry": "Semi Equipment",
+   "count": 1,
+   "cap_b": 130.0,
+   "tickers": "LRCX"
+  },
+  {
+   "Sector": "Technology",
+   "Industry": "Software-Infrastructure",
+   "count": 1,
+   "cap_b": 410.0,
+   "tickers": "PLTR"
+  },
+  {
+   "Sector": "Utilities",
+   "Industry": "Utilities-Regulated",
+   "count": 1,
+   "cap_b": 95.0,
+   "tickers": "CEG"
+  }
+ ],
+ "leaders": [
+  {
+   "sector": "Utilities",
+   "sector_kr": "유틸리티",
+   "ticker": "CEG",
+   "name": "Constellation",
+   "industry": "Utilities-Regulated",
+   "cap_b": 95.0,
+   "pe": 33.1,
+   "change": "3.10%",
+   "ret_3m": 38.2
+  },
+  {
+   "sector": "Utilities",
+   "sector_kr": "유틸리티",
+   "ticker": "VST",
+   "name": "Vistra",
+   "industry": "Utilities-Independent",
+   "cap_b": 70.0,
+   "pe": 29.5,
+   "change": "4.20%",
+   "ret_3m": 25.1
+  },
+  {
+   "sector": "Utilities",
+   "sector_kr": "유틸리티",
+   "ticker": "NRG",
+   "name": "NRG Energy",
+   "industry": "Utilities-Independent",
+   "cap_b": 50.0,
+   "pe": 27.0,
+   "change": "5.05%",
+   "ret_3m": 12.4
+  },
+  {
+   "sector": "Technology",
+   "sector_kr": "IT/기술",
+   "ticker": "NVDA",
+   "name": "NVIDIA",
+   "industry": "Semiconductors",
+   "cap_b": 4500.0,
+   "pe": 45.2,
+   "change": "2.14%",
+   "ret_3m": 88.0
+  },
+  {
+   "sector": "Technology",
+   "sector_kr": "IT/기술",
+   "ticker": "AVGO",
+   "name": "Broadcom",
+   "industry": "Semiconductors",
+   "cap_b": 1200.0,
+   "pe": 38.1,
+   "change": "1.80%",
+   "ret_3m": 41.5
+  },
+  {
+   "sector": "Technology",
+   "sector_kr": "IT/기술",
+   "ticker": "PLTR",
+   "name": "Palantir",
+   "industry": "Software-Infrastructure",
+   "cap_b": 410.0,
+   "pe": 210.0,
+   "change": "6.30%",
+   "ret_3m": 29.3
+  },
+  {
+   "sector": "Technology",
+   "sector_kr": "IT/기술",
+   "ticker": "MU",
+   "name": "Micron",
+   "industry": "Semiconductors",
+   "cap_b": 280.0,
+   "pe": 22.4,
+   "change": "3.52%",
+   "ret_3m": 15.2
+  },
+  {
+   "sector": "Technology",
+   "sector_kr": "IT/기술",
+   "ticker": "LRCX",
+   "name": "Lam Research",
+   "industry": "Semi Equipment",
+   "cap_b": 130.0,
+   "pe": 30.0,
+   "change": "2.90%",
+   "ret_3m": 9.8
+  },
+  {
+   "sector": "Energy",
+   "sector_kr": "에너지",
+   "ticker": "XOM",
+   "name": "Exxon",
+   "industry": "Oil & Gas Integrated",
+   "cap_b": 520.0,
+   "pe": 13.5,
+   "change": "0.60%",
+   "ret_3m": 22.0
+  }
+ ],
+ "insight_md": "## 오늘의 정량 시그널\n\n- **유틸리티**: 신고가 3개 (섹터 내 2.9%), 시총합 $215.0B\n- **IT/기술**: 신고가 5개 (섹터 내 0.7%), 시총합 $6520.0B\n- **에너지**: 신고가 1개 (섹터 내 0.4%), 시총합 $520.0B\n\n**신고가 종목 중앙값 시총 $245.0B** — 중대형주 동반 랠리로 질적으로 양호합니다.\n\n**최다 산업 핫스팟**: Semiconductors (3개 · 대표 NVDA, AVGO, MU)\n\n> Claude API 키를 설정하면 뉴스 기반 원인 분석이 자동 추가됩니다."
+}
