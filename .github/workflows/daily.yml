@@ -1,0 +1,39 @@
+name: daily-new-highs
+
+on:
+  schedule:
+    # 미국 장마감 16:00 ET 이후 실행.
+    # 21:15 UTC = 서머타임(EDT) 기준 17:15 ET / 겨울(EST) 기준 16:15 ET
+    # 한국시간으로는 오전 6:15 (다음날). 화~토요일 = 미국 월~금 장마감 반영.
+    - cron: "15 21 * * 1-5"
+  workflow_dispatch:   # Actions 탭에서 수동 실행 버튼
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run pipeline
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}  # 미설정 시 룰베이스로 자동 대체
+        run: python pipeline.py --min-cap 2
+
+      - name: Commit updated data
+        run: |
+          git config user.name "highs-bot"
+          git config user.email "actions@github.com"
+          git add docs/data.json docs/history.csv
+          git diff --cached --quiet || git commit -m "data: $(date -u +'%Y-%m-%d') new highs"
+          git push
