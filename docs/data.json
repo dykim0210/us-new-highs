@@ -1,304 +1,388 @@
 {
- "as_of": "2026-07-24",
- "updated_at": "2026-07-24 15:39 KST",
+ "as_of": "2026-07-25",
+ "updated_at": "2026-07-25 15:07 KST",
  "note": "미국 동부시간 기준 장마감(16:00 ET) 이후 자동 수집",
  "min_cap_b": 2.0,
- "total_count": 37,
- "median_cap_b": 17.42,
+ "total_count": 58,
+ "median_cap_b": 10.31,
  "tape": [
   {
-   "t": "UUNP",
-   "c": 0.04019999999999999
+   "t": "JJPM",
+   "c": 0.0095
+  },
+  {
+   "t": "BBAC",
+   "c": 0.0126
+  },
+  {
+   "t": "RRTX",
+   "c": 0.0174
   },
   {
    "t": "WWELL",
-   "c": 0.008199999999999999
+   "c": 0.0203
   },
   {
-   "t": "GGD",
-   "c": 0.0231
-  },
-  {
-   "t": "CCSX",
-   "c": 0.057699999999999994
-  },
-  {
-   "t": "TTRV",
-   "c": 0.0115
-  },
-  {
-   "t": "NNSC",
-   "c": 0.053200000000000004
-  },
-  {
-   "t": "UURI",
-   "c": 0.1011
-  },
-  {
-   "t": "PPCAR",
-   "c": -0.0027
-  },
-  {
-   "t": "TTRGP",
-   "c": 0.004
-  },
-  {
-   "t": "CCTVA",
-   "c": 0.0028000000000000004
-  },
-  {
-   "t": "WWAB",
-   "c": 0.0276
-  },
-  {
-   "t": "VVTR",
+   "t": "HHWM",
    "c": 0.0076
   },
   {
-   "t": "AADM",
-   "c": -0.0111
+   "t": "GGD",
+   "c": 0.013000000000000001
   },
   {
-   "t": "IILMN",
-   "c": 0.031400000000000004
+   "t": "CCSX",
+   "c": 0.008
   },
   {
-   "t": "DDGX",
-   "c": 0.0861
+   "t": "TTRV",
+   "c": 0.028900000000000002
   },
   {
-   "t": "WWST",
-   "c": -0.008199999999999999
-  },
-  {
-   "t": "LLH",
-   "c": 0.034
-  },
-  {
-   "t": "PPAGP",
+   "t": "PPCAR",
    "c": 0.011399999999999999
   },
   {
-   "t": "PPAA",
-   "c": 0.0098
+   "t": "AALL",
+   "c": 0.021400000000000002
   },
   {
-   "t": "MMEDP",
-   "c": 0.1471
+   "t": "TTRGP",
+   "c": -0.0149
+  },
+  {
+   "t": "WWAB",
+   "c": 0.0151
+  },
+  {
+   "t": "VVTR",
+   "c": 0.026699999999999998
+  },
+  {
+   "t": "RRPRX",
+   "c": -0.0032
+  },
+  {
+   "t": "FFTI",
+   "c": 0.0096
+  },
+  {
+   "t": "FFCNCA",
+   "c": -0.0236
+  },
+  {
+   "t": "LLH",
+   "c": 0.019799999999999998
+  },
+  {
+   "t": "PPKG",
+   "c": 0.0876
+  },
+  {
+   "t": "PPAGP",
+   "c": -0.0023
+  },
+  {
+   "t": "WWES",
+   "c": -0.0096
+  },
+  {
+   "t": "OOVV",
+   "c": 0.028300000000000002
+  },
+  {
+   "t": "PPAA",
+   "c": -0.0036
+  },
+  {
+   "t": "HHST",
+   "c": 0.0225
+  },
+  {
+   "t": "SSUN",
+   "c": 0.0083
   },
   {
    "t": "OOHI",
-   "c": 0.0070999999999999995
+   "c": 0.0147
+  },
+  {
+   "t": "CCNA",
+   "c": 0.0276
+  },
+  {
+   "t": "CCR",
+   "c": 0.0369
   },
   {
    "t": "AAIT",
-   "c": 0.0077
+   "c": 0.0087
   },
   {
-   "t": "SSEIC",
-   "c": -0.020499999999999997
+   "t": "CCFR",
+   "c": 0.0172
   },
   {
-   "t": "CCRL",
-   "c": 0.0484
-  },
-  {
-   "t": "BBPOP",
-   "c": -0.0173
+   "t": "OOGE",
+   "c": 0.0069
   },
   {
    "t": "CCORT",
-   "c": 0.0636
+   "c": -0.0134
   },
   {
-   "t": "KKNTK",
-   "c": 0.0017000000000000001
+   "t": "HHALO",
+   "c": 0.013500000000000002
   },
   {
-   "t": "HHXL",
-   "c": 0.030699999999999998
+   "t": "JJAN",
+   "c": 0.0265
+  },
+  {
+   "t": "BBOKF",
+   "c": 0.0075
+  },
+  {
+   "t": "CCDP",
+   "c": 0.0147
+  },
+  {
+   "t": "RRHP",
+   "c": 0.0326
+  },
+  {
+   "t": "CCBC",
+   "c": 0.0104
   },
   {
    "t": "LLQDA",
-   "c": 0.0229
+   "c": -0.0316
   },
   {
-   "t": "MMSM",
-   "c": -0.011399999999999999
+   "t": "FFAF",
+   "c": 0.0895
   },
   {
-   "t": "TTXG",
-   "c": 0.0215
+   "t": "PPACS",
+   "c": 0.0453
+  },
+  {
+   "t": "HHOMB",
+   "c": 0.008100000000000001
+  },
+  {
+   "t": "SSON",
+   "c": 0.0339
   },
   {
    "t": "OOII",
-   "c": 0.06709999999999999
+   "c": 0.0981
+  },
+  {
+   "t": "EEPR",
+   "c": 0.025
+  },
+  {
+   "t": "IINSW",
+   "c": 0.0102
+  },
+  {
+   "t": "FFBP",
+   "c": -0.001
+  },
+  {
+   "t": "WWSFS",
+   "c": 0.0111
+  },
+  {
+   "t": "RRNG",
+   "c": 0.2509
+  },
+  {
+   "t": "CCON",
+   "c": 0.0025
   },
   {
    "t": "GGEF",
-   "c": -0.0001
+   "c": 0.023799999999999998
+  },
+  {
+   "t": "WWSBC",
+   "c": 0.0292
   },
   {
    "t": "SSUNC",
-   "c": -0.0067
+   "c": 0.0070999999999999995
   },
   {
-   "t": "CCLMT",
-   "c": -0.029900000000000003
+   "t": "CCSQR",
+   "c": 0.058600000000000006
+  },
+  {
+   "t": "DDBD",
+   "c": 0.027000000000000003
   },
   {
    "t": "DDKL",
-   "c": 0.009399999999999999
+   "c": -0.009899999999999999
   },
   {
-   "t": "WWTTR",
-   "c": -0.0239
+   "t": "DDBRG",
+   "c": 0.0038
+  },
+  {
+   "t": "MMBX",
+   "c": -0.024700000000000003
+  },
+  {
+   "t": "SSRCE",
+   "c": 0.032
   }
  ],
  "sectors": [
   {
    "sector": "Energy",
-   "count": 8,
-   "cap_sum_b": 122.0,
-   "cap_med_b": 6.6,
+   "count": 11,
+   "cap_sum_b": 198.6,
+   "cap_med_b": 17.36,
    "total": 254,
-   "ratio": 3.1,
+   "ratio": 4.3,
    "sector_kr": "에너지"
   },
   {
-   "sector": "Industrials",
-   "count": 10,
-   "cap_sum_b": 678.2,
-   "cap_med_b": 69.88,
-   "total": 707,
-   "ratio": 1.4,
-   "sector_kr": "산업재"
-  },
-  {
    "sector": "Real Estate",
-   "count": 3,
-   "cap_sum_b": 238.3,
-   "cap_med_b": 48.72,
+   "count": 8,
+   "cap_sum_b": 291.0,
+   "cap_med_b": 12.22,
    "total": 254,
-   "ratio": 1.2,
+   "ratio": 3.1,
    "sector_kr": "부동산/리츠"
   },
   {
+   "sector": "Financial",
+   "count": 16,
+   "cap_sum_b": 1631.9,
+   "cap_med_b": 8.16,
+   "total": 1115,
+   "ratio": 1.4,
+   "sector_kr": "금융"
+  },
+  {
+   "sector": "Industrials",
+   "count": 8,
+   "cap_sum_b": 752.1,
+   "cap_med_b": 84.1,
+   "total": 707,
+   "ratio": 1.1,
+   "sector_kr": "산업재"
+  },
+  {
+   "sector": "Utilities",
+   "count": 1,
+   "cap_sum_b": 10.3,
+   "cap_med_b": 10.31,
+   "total": 110,
+   "ratio": 0.9,
+   "sector_kr": "유틸리티"
+  },
+  {
    "sector": "Healthcare",
-   "count": 9,
-   "cap_sum_b": 156.7,
-   "cap_med_b": 17.3,
-   "total": 1064,
+   "count": 8,
+   "cap_sum_b": 100.3,
+   "cap_med_b": 8.7,
+   "total": 1066,
    "ratio": 0.8,
    "sector_kr": "헬스케어"
   },
   {
-   "sector": "Basic Materials",
-   "count": 2,
-   "cap_sum_b": 63.1,
-   "cap_med_b": 31.56,
-   "total": 284,
-   "ratio": 0.7,
-   "sector_kr": "소재"
-  },
-  {
-   "sector": "Consumer Defensive",
-   "count": 1,
-   "cap_sum_b": 41.6,
-   "cap_med_b": 41.62,
-   "total": 240,
-   "ratio": 0.4,
-   "sector_kr": "필수소비재"
-  },
-  {
-   "sector": "Financial",
-   "count": 3,
-   "cap_sum_b": 101.1,
-   "cap_med_b": 11.61,
-   "total": 1115,
-   "ratio": 0.3,
-   "sector_kr": "금융"
-  },
-  {
    "sector": "Consumer Cyclical",
-   "count": 1,
-   "cap_sum_b": 3.9,
-   "cap_med_b": 3.93,
+   "count": 3,
+   "cap_sum_b": 32.5,
+   "cap_med_b": 5.76,
    "total": 533,
-   "ratio": 0.2,
+   "ratio": 0.6,
    "sector_kr": "경기소비재"
+  },
+  {
+   "sector": "Technology",
+   "count": 3,
+   "cap_sum_b": 10.7,
+   "cap_med_b": 3.53,
+   "total": 792,
+   "ratio": 0.4,
+   "sector_kr": "IT/기술"
   }
  ],
  "hotspots": [
   {
+   "Sector": "Financial",
+   "Industry": "Banks - Regional",
+   "count": 9,
+   "cap_b": 72.2,
+   "tickers": "FFCNCA, CCFR, BBOKF"
+  },
+  {
    "Sector": "Energy",
    "Industry": "Oil & Gas Midstream",
-   "count": 5,
-   "cap_b": 111.2,
-   "tickers": "TTRGP, PPAGP, PPAA"
+   "count": 6,
+   "cap_b": 126.5,
+   "tickers": "TTRGP, PPAGP, WWES"
   },
   {
    "Sector": "Healthcare",
-   "Industry": "Diagnostics & Research",
-   "count": 5,
-   "cap_b": 107.2,
-   "tickers": "IILMN, DDGX, LLH"
+   "Industry": "Biotechnology",
+   "count": 4,
+   "cap_b": 56.8,
+   "tickers": "RRPRX, CCORT, HHALO"
+  },
+  {
+   "Sector": "Consumer Cyclical",
+   "Industry": "Packaging & Containers",
+   "count": 3,
+   "cap_b": 32.5,
+   "tickers": "PPKG, SSON, GGEF"
+  },
+  {
+   "Sector": "Financial",
+   "Industry": "Insurance - Property & Casualty",
+   "count": 3,
+   "cap_b": 162.2,
+   "tickers": "TTRV, AALL, CCNA"
   },
   {
    "Sector": "Industrials",
-   "Industry": "Railroads",
-   "count": 4,
-   "cap_b": 407.1,
-   "tickers": "UUNP, CCSX, NNSC"
+   "Industry": "Aerospace & Defense",
+   "count": 3,
+   "cap_b": 506.9,
+   "tickers": "RRTX, HHWM, GGD"
   },
   {
    "Sector": "Real Estate",
    "Industry": "REIT - Healthcare Facilities",
    "count": 3,
-   "cap_b": 238.3,
+   "cap_b": 243.4,
    "tickers": "WWELL, VVTR, OOHI"
   },
   {
    "Sector": "Energy",
    "Industry": "Oil & Gas Equipment & Services",
    "count": 2,
-   "cap_b": 7.7,
-   "tickers": "OOII, WWTTR"
+   "cap_b": 35.9,
+   "tickers": "FFTI, OOII"
   },
   {
-   "Sector": "Industrials",
-   "Industry": "Aerospace & Defense",
+   "Sector": "Energy",
+   "Industry": "Oil & Gas Refining & Marketing",
    "count": 2,
-   "cap_b": 111.5,
-   "tickers": "GGD, HHXL"
+   "cap_b": 18.4,
+   "tickers": "SSUN, DDKL"
   },
   {
-   "Sector": "Industrials",
-   "Industry": "Industrial Distribution",
+   "Sector": "Financial",
+   "Industry": "Banks - Diversified",
    "count": 2,
-   "cap_b": 19.8,
-   "tickers": "AAIT, MMSM"
-  },
-  {
-   "Sector": "Basic Materials",
-   "Industry": "Agricultural Inputs",
-   "count": 1,
-   "cap_b": 59.4,
-   "tickers": "CCTVA"
-  },
-  {
-   "Sector": "Basic Materials",
-   "Industry": "Specialty Chemicals",
-   "count": 1,
-   "cap_b": 3.7,
-   "tickers": "CCLMT"
-  },
-  {
-   "Sector": "Consumer Cyclical",
-   "Industry": "Packaging & Containers",
-   "count": 1,
-   "cap_b": 3.9,
-   "tickers": "GGEF"
+   "cap_b": 1386.8,
+   "tickers": "JJPM, BBAC"
   }
  ],
  "leaders": [
@@ -308,9 +392,20 @@
    "ticker": "TTRGP",
    "name": "Targa Resources Corp",
    "industry": "Oil & Gas Midstream",
-   "cap_b": 61.3,
-   "pe": 29.09,
-   "change": "0.004",
+   "cap_b": 60.4,
+   "pe": 28.66,
+   "change": "-0.0149",
+   "ret_3m": null
+  },
+  {
+   "sector": "Energy",
+   "sector_kr": "에너지",
+   "ticker": "FFTI",
+   "name": "TechnipFMC plc",
+   "industry": "Oil & Gas Equipment & Services",
+   "cap_b": 30.6,
+   "pe": 29.36,
+   "change": "0.0096",
    "ret_3m": null
   },
   {
@@ -319,97 +414,31 @@
    "ticker": "PPAGP",
    "name": "Plains GP Holdings LP",
    "industry": "Oil & Gas Midstream",
-   "cap_b": 20.2,
-   "pe": 28.76,
-   "change": "0.011399999999999999",
+   "cap_b": 20.1,
+   "pe": 28.69,
+   "change": "-0.0023",
    "ret_3m": null
   },
   {
    "sector": "Energy",
    "sector_kr": "에너지",
-   "ticker": "PPAA",
-   "name": "Plains All American Pipeline LP",
+   "ticker": "WWES",
+   "name": "Western Midstream Partners LP",
    "industry": "Oil & Gas Midstream",
-   "cap_b": 17.4,
-   "pe": 18.49,
-   "change": "0.0098",
+   "cap_b": 20.1,
+   "pe": 15.52,
+   "change": "-0.0096",
    "ret_3m": null
   },
   {
    "sector": "Energy",
    "sector_kr": "에너지",
-   "ticker": "KKNTK",
-   "name": "Kinetik Holdings Inc",
-   "industry": "Oil & Gas Midstream",
-   "cap_b": 8.4,
-   "pe": 21.14,
-   "change": "0.0017000000000000001",
-   "ret_3m": null
-  },
-  {
-   "sector": "Energy",
-   "sector_kr": "에너지",
-   "ticker": "OOII",
-   "name": "Oceaneering International Inc",
-   "industry": "Oil & Gas Equipment & Services",
-   "cap_b": 4.8,
-   "pe": 13.83,
-   "change": "0.06709999999999999",
-   "ret_3m": null
-  },
-  {
-   "sector": "Industrials",
-   "sector_kr": "산업재",
-   "ticker": "UUNP",
-   "name": "Union Pacific Corp",
-   "industry": "Railroads",
-   "cap_b": 180.7,
-   "pe": 24.64,
-   "change": "0.04019999999999999",
-   "ret_3m": null
-  },
-  {
-   "sector": "Industrials",
-   "sector_kr": "산업재",
-   "ticker": "GGD",
-   "name": "General Dynamics Corp",
-   "industry": "Aerospace & Defense",
-   "cap_b": 103.2,
-   "pe": 24.01,
-   "change": "0.0231",
-   "ret_3m": null
-  },
-  {
-   "sector": "Industrials",
-   "sector_kr": "산업재",
-   "ticker": "CCSX",
-   "name": "CSX Corp",
-   "industry": "Railroads",
-   "cap_b": 97.8,
-   "pe": 30.5,
-   "change": "0.057699999999999994",
-   "ret_3m": null
-  },
-  {
-   "sector": "Industrials",
-   "sector_kr": "산업재",
-   "ticker": "NNSC",
-   "name": "Norfolk Southern Corp",
-   "industry": "Railroads",
-   "cap_b": 78.3,
-   "pe": 29.74,
-   "change": "0.053200000000000004",
-   "ret_3m": null
-  },
-  {
-   "sector": "Industrials",
-   "sector_kr": "산업재",
-   "ticker": "UURI",
-   "name": "United Rentals Inc",
-   "industry": "Rental & Leasing Services",
-   "cap_b": 70.9,
-   "pe": 27.38,
-   "change": "0.1011",
+   "ticker": "OOVV",
+   "name": "Ovintiv Inc",
+   "industry": "Oil & Gas E&P",
+   "cap_b": 17.7,
+   "pe": 17.65,
+   "change": "0.028300000000000002",
    "ret_3m": null
   },
   {
@@ -418,9 +447,9 @@
    "ticker": "WWELL",
    "name": "Welltower Inc",
    "industry": "REIT - Healthcare Facilities",
-   "cap_b": 174.4,
+   "cap_b": 177.9,
    "pe": null,
-   "change": "0.008199999999999999",
+   "change": "0.0203",
    "ret_3m": null
   },
   {
@@ -429,9 +458,20 @@
    "ticker": "VVTR",
    "name": "Ventas Inc",
    "industry": "REIT - Healthcare Facilities",
-   "cap_b": 48.7,
-   "pe": 177.36,
-   "change": "0.0076",
+   "cap_b": 50.0,
+   "pe": 182.09,
+   "change": "0.026699999999999998",
+   "ret_3m": null
+  },
+  {
+   "sector": "Real Estate",
+   "sector_kr": "부동산/리츠",
+   "ticker": "HHST",
+   "name": "Host Hotels & Resorts Inc",
+   "industry": "REIT - Hotel & Motel",
+   "cap_b": 16.8,
+   "pe": 16.73,
+   "change": "0.0225",
    "ret_3m": null
   },
   {
@@ -440,11 +480,77 @@
    "ticker": "OOHI",
    "name": "Omega Healthcare Investors Inc",
    "industry": "REIT - Healthcare Facilities",
-   "cap_b": 15.2,
-   "pe": 24.71,
-   "change": "0.0070999999999999995",
+   "cap_b": 15.4,
+   "pe": 25.07,
+   "change": "0.0147",
+   "ret_3m": null
+  },
+  {
+   "sector": "Real Estate",
+   "sector_kr": "부동산/리츠",
+   "ticker": "JJAN",
+   "name": "Janus Living Inc",
+   "industry": "REIT - Residential",
+   "cap_b": 9.1,
+   "pe": null,
+   "change": "0.0265",
+   "ret_3m": null
+  },
+  {
+   "sector": "Financial",
+   "sector_kr": "금융",
+   "ticker": "JJPM",
+   "name": "JPMorgan Chase & Co",
+   "industry": "Banks - Diversified",
+   "cap_b": 946.4,
+   "pe": 15.13,
+   "change": "0.0095",
+   "ret_3m": null
+  },
+  {
+   "sector": "Financial",
+   "sector_kr": "금융",
+   "ticker": "BBAC",
+   "name": "Bank Of America Corp",
+   "industry": "Banks - Diversified",
+   "cap_b": 440.3,
+   "pe": 14.27,
+   "change": "0.0126",
+   "ret_3m": null
+  },
+  {
+   "sector": "Financial",
+   "sector_kr": "금융",
+   "ticker": "TTRV",
+   "name": "Travelers Companies Inc",
+   "industry": "Insurance - Property & Casualty",
+   "cap_b": 80.8,
+   "pe": 10.37,
+   "change": "0.028900000000000002",
+   "ret_3m": null
+  },
+  {
+   "sector": "Financial",
+   "sector_kr": "금융",
+   "ticker": "AALL",
+   "name": "Allstate Corp",
+   "industry": "Insurance - Property & Casualty",
+   "cap_b": 66.9,
+   "pe": 5.74,
+   "change": "0.021400000000000002",
+   "ret_3m": null
+  },
+  {
+   "sector": "Financial",
+   "sector_kr": "금융",
+   "ticker": "FFCNCA",
+   "name": "First Citizens Bancshares Inc (NC)",
+   "industry": "Banks - Regional",
+   "cap_b": 24.7,
+   "pe": 11.56,
+   "change": "-0.0236",
    "ret_3m": null
   }
  ],
- "insight_md": "## 오늘의 정량 시그널\n\n- **에너지**: 신고가 8개 (섹터 내 3.1%), 시총합 $122.0B\n- **산업재**: 신고가 10개 (섹터 내 1.4%), 시총합 $678.2B\n- **부동산/리츠**: 신고가 3개 (섹터 내 1.2%), 시총합 $238.3B\n\n**신고가 종목 중앙값 시총 $17.4B** — 중대형주 동반 랠리로 질적으로 양호합니다.\n\n**최다 산업 핫스팟**: Oil & Gas Midstream (5개 · 대표 TTRGP, PPAGP, PPAA)\n\n> Claude API 키를 설정하면 뉴스 기반 원인 분석이 자동 추가됩니다."
+ "insight_md": "## 오늘의 정량 시그널\n\n- **에너지**: 신고가 11개 (섹터 내 4.3%), 시총합 $198.6B\n- **부동산/리츠**: 신고가 8개 (섹터 내 3.1%), 시총합 $291.0B\n- **금융**: 신고가 16개 (섹터 내 1.4%), 시총합 $1631.9B\n\n**신고가 종목 중앙값 시총 $10.3B** — 중대형주 동반 랠리로 질적으로 양호합니다.\n\n**최다 산업 핫스팟**: Banks - Regional (9개 · 대표 FFCNCA, CCFR, BBOKF)\n\n> Claude API 키를 설정하면 뉴스 기반 원인 분석이 자동 추가됩니다."
 }
