@@ -1,330 +1,330 @@
 {
- "as_of": "2026-08-05",
- "updated_at": "2026-08-05 15:43 KST",
+ "as_of": "2026-08-06",
+ "updated_at": "2026-08-06 09:15 KST",
  "note": "미국 동부시간 기준 장마감(16:00 ET) 이후 자동 수집",
  "min_cap_b": 2.0,
- "total_count": 102,
- "median_cap_b": 6.12,
+ "total_count": 118,
+ "median_cap_b": 7.95,
  "tape": [
   {
-   "t": "JJPM",
-   "c": 0.0138
-  },
-  {
-   "t": "BBAC",
-   "c": 0.0067
+   "t": "GGE",
+   "c": 0.0104
   },
   {
    "t": "DDELL",
-   "c": 0.0892
+   "c": -0.0098
+  },
+  {
+   "t": "RRTX",
+   "c": 0.020099999999999996
+  },
+  {
+   "t": "PPANW",
+   "c": -0.01
   },
   {
    "t": "AANET",
-   "c": 0.0304
+   "c": 0.035699999999999996
   },
   {
-   "t": "SSNOW",
-   "c": 0.03
+   "t": "AAMGN",
+   "c": 0.045700000000000005
   },
   {
-   "t": "NNET",
-   "c": 0.06570000000000001
+   "t": "CCRWD",
+   "c": -0.0064
   },
   {
-   "t": "DDDOG",
-   "c": 0.053200000000000004
-  },
-  {
-   "t": "NNUE",
-   "c": 0.048799999999999996
-  },
-  {
-   "t": "MMPLX",
-   "c": 0.027200000000000002
-  },
-  {
-   "t": "AAME",
-   "c": 0.042199999999999994
-  },
-  {
-   "t": "XXYZ",
-   "c": 0.0311
-  },
-  {
-   "t": "AAMP",
-   "c": 0.0027
-  },
-  {
-   "t": "HHEI",
-   "c": 0.02
-  },
-  {
-   "t": "NNTAP",
-   "c": 0.0412
-  },
-  {
-   "t": "RRJF",
-   "c": 0.005
-  },
-  {
-   "t": "DDXCM",
-   "c": -0.0042
-  },
-  {
-   "t": "WWSM",
-   "c": 0.0379
-  },
-  {
-   "t": "CCPAY",
-   "c": 0.0278
-  },
-  {
-   "t": "FFCNCA",
-   "c": 0.015
-  },
-  {
-   "t": "AARXS",
-   "c": 0.08039999999999999
-  },
-  {
-   "t": "SSN",
-   "c": 0.0475
-  },
-  {
-   "t": "BBEN",
-   "c": 0.015
-  },
-  {
-   "t": "ZZBRA",
-   "c": 0.2647
-  },
-  {
-   "t": "NNDSN",
-   "c": 0.0233
-  },
-  {
-   "t": "JJLL",
-   "c": 0.0049
-  },
-  {
-   "t": "PPNFP",
-   "c": 0.0139
-  },
-  {
-   "t": "SSWK",
-   "c": 0.0437
-  },
-  {
-   "t": "IIVZ",
-   "c": 0.0353
-  },
-  {
-   "t": "AAIT",
-   "c": 0.014199999999999999
-  },
-  {
-   "t": "WWBS",
-   "c": 0.0004
-  },
-  {
-   "t": "SSEIC",
-   "c": 0.0051
-  },
-  {
-   "t": "SSSB",
-   "c": 0.0146
-  },
-  {
-   "t": "CCFR",
-   "c": -0.004
-  },
-  {
-   "t": "HHSIC",
-   "c": 0.0301
-  },
-  {
-   "t": "AAMG",
-   "c": 0.0066
-  },
-  {
-   "t": "MMTCH",
-   "c": 0.0173
-  },
-  {
-   "t": "JJXN",
-   "c": 0.059000000000000004
-  },
-  {
-   "t": "LLNC",
-   "c": 0.0197
-  },
-  {
-   "t": "BBOKF",
-   "c": 0.0063
-  },
-  {
-   "t": "NNEU",
-   "c": 0.0406
-  },
-  {
-   "t": "AAXTA",
-   "c": 0.036699999999999997
-  },
-  {
-   "t": "CCBC",
-   "c": 0.0063
-  },
-  {
-   "t": "DDBX",
-   "c": 0.044199999999999996
-  },
-  {
-   "t": "GGTES",
+   "t": "SSCHW",
    "c": 0.015700000000000002
   },
   {
-   "t": "SS",
-   "c": 0.0464
+   "t": "FFTNT",
+   "c": -0.024700000000000003
   },
   {
-   "t": "MM",
-   "c": 0.01
+   "t": "SSNOW",
+   "c": 0.0002
   },
   {
-   "t": "UUBSI",
-   "c": 0.009399999999999999
+   "t": "NNET",
+   "c": -0.0278
   },
   {
-   "t": "CCROX",
-   "c": 0.0467
+   "t": "DDDOG",
+   "c": -0.0173
   },
   {
-   "t": "BBLLN",
-   "c": 0.0359
+   "t": "NNUE",
+   "c": 0.0026
   },
   {
-   "t": "VVCTR",
-   "c": -0.0111
+   "t": "MMPLX",
+   "c": -0.0202
   },
   {
-   "t": "TTWST",
-   "c": -0.016
+   "t": "AAME",
+   "c": 0.0028000000000000004
   },
   {
-   "t": "AASB",
+   "t": "AAMP",
+   "c": 0.013500000000000002
+  },
+  {
+   "t": "XXYZ",
+   "c": -0.0052
+  },
+  {
+   "t": "HHEI",
+   "c": -0.0023
+  },
+  {
+   "t": "RRVMD",
+   "c": 0.019799999999999998
+  },
+  {
+   "t": "PPRU",
+   "c": -0.0274
+  },
+  {
+   "t": "EEXPE",
+   "c": 0.024399999999999998
+  },
+  {
+   "t": "RRJF",
    "c": 0.0111
   },
   {
-   "t": "AAX",
-   "c": 0.0139
+   "t": "WWSM",
+   "c": -0.0026
   },
   {
-   "t": "AAIR",
-   "c": 0.044500000000000005
+   "t": "AATI",
+   "c": 0.0248
   },
   {
-   "t": "CCSW",
-   "c": 0.0159
+   "t": "CCPAY",
+   "c": -0.005
   },
   {
-   "t": "PPAY",
-   "c": 0.292
+   "t": "SSN",
+   "c": 0.0828
   },
   {
-   "t": "AALH",
-   "c": 0.0504
+   "t": "FFCNCA",
+   "c": -0.011000000000000001
   },
   {
-   "t": "AANDG",
-   "c": 0.0191
+   "t": "AARXS",
+   "c": 0.026699999999999998
   },
   {
-   "t": "WWHD",
-   "c": 0.0528
+   "t": "PPFG",
+   "c": -0.0034999999999999996
   },
   {
-   "t": "CCAKE",
-   "c": 0.009000000000000001
+   "t": "GGPN",
+   "c": -0.0087
+  },
+  {
+   "t": "EEXPD",
+   "c": -0.0004
+  },
+  {
+   "t": "IIFF",
+   "c": 0.0888
+  },
+  {
+   "t": "RRS",
+   "c": 0.0149
+  },
+  {
+   "t": "TTHC",
+   "c": 0.0332
+  },
+  {
+   "t": "WWCC",
+   "c": -0.0027
+  },
+  {
+   "t": "BBEN",
+   "c": -0.023799999999999998
+  },
+  {
+   "t": "ZZBRA",
+   "c": 0.0004
+  },
+  {
+   "t": "NNDSN",
+   "c": 0.0032
+  },
+  {
+   "t": "JJLL",
+   "c": 0.0146
+  },
+  {
+   "t": "SSWK",
+   "c": 0.0085
+  },
+  {
+   "t": "AAIZ",
+   "c": 0.07200000000000001
+  },
+  {
+   "t": "DDT",
+   "c": 0.1127
+  },
+  {
+   "t": "IIVZ",
+   "c": 0.0003
+  },
+  {
+   "t": "CCCK",
+   "c": 0.0039000000000000003
+  },
+  {
+   "t": "AAIT",
+   "c": 0.0034999999999999996
+  },
+  {
+   "t": "EELAN",
+   "c": 0.0242
+  },
+  {
+   "t": "WWBS",
+   "c": 0.015
+  },
+  {
+   "t": "SSEIC",
+   "c": 0.0004
+  },
+  {
+   "t": "CCRL",
+   "c": 0.11359999999999999
+  },
+  {
+   "t": "SSSB",
+   "c": -0.0022
+  },
+  {
+   "t": "EEAT",
+   "c": 0.0354
+  },
+  {
+   "t": "BBIO",
+   "c": 0.045
+  },
+  {
+   "t": "SSYRE",
+   "c": -0.005600000000000001
+  },
+  {
+   "t": "LLNC",
+   "c": -0.0019
+  },
+  {
+   "t": "HHQY",
+   "c": -0.0053
+  },
+  {
+   "t": "EETSY",
+   "c": -0.0066
+  },
+  {
+   "t": "AAXTA",
+   "c": 0.012199999999999999
+  },
+  {
+   "t": "NNEU",
+   "c": -0.0083
+  },
+  {
+   "t": "AAVT",
+   "c": 0.0507
+  },
+  {
+   "t": "LLQDA",
+   "c": 0.0084
   }
  ],
  "sectors": [
   {
-   "sector": "Financial",
-   "count": 40,
-   "cap_sum_b": 1741.0,
-   "cap_med_b": 5.98,
-   "total": 1119,
-   "ratio": 3.6,
-   "sector_kr": "금융"
-  },
-  {
    "sector": "Technology",
-   "count": 16,
-   "cap_sum_b": 1028.0,
-   "cap_med_b": 21.74,
+   "count": 23,
+   "cap_sum_b": 1691.5,
+   "cap_med_b": 17.58,
    "total": 790,
-   "ratio": 2.0,
+   "ratio": 2.9,
    "sector_kr": "IT/기술"
   },
   {
-   "sector": "Consumer Cyclical",
-   "count": 10,
-   "cap_sum_b": 93.5,
-   "cap_med_b": 5.52,
-   "total": 532,
-   "ratio": 1.9,
-   "sector_kr": "경기소비재"
-  },
-  {
    "sector": "Industrials",
-   "count": 12,
-   "cap_sum_b": 196.9,
-   "cap_med_b": 10.37,
+   "count": 19,
+   "cap_sum_b": 970.3,
+   "cap_med_b": 15.6,
    "total": 707,
-   "ratio": 1.7,
+   "ratio": 2.7,
    "sector_kr": "산업재"
   },
   {
+   "sector": "Consumer Cyclical",
+   "count": 14,
+   "cap_sum_b": 161.7,
+   "cap_med_b": 5.98,
+   "total": 532,
+   "ratio": 2.6,
+   "sector_kr": "경기소비재"
+  },
+  {
+   "sector": "Basic Materials",
+   "count": 7,
+   "cap_sum_b": 131.3,
+   "cap_med_b": 8.15,
+   "total": 286,
+   "ratio": 2.4,
+   "sector_kr": "소재"
+  },
+  {
    "sector": "Healthcare",
-   "count": 13,
-   "cap_sum_b": 83.9,
-   "cap_med_b": 3.93,
-   "total": 1060,
-   "ratio": 1.2,
+   "count": 25,
+   "cap_sum_b": 409.8,
+   "cap_med_b": 5.84,
+   "total": 1061,
+   "ratio": 2.4,
    "sector_kr": "헬스케어"
   },
   {
-   "sector": "Communication Services",
-   "count": 3,
-   "cap_sum_b": 13.9,
-   "cap_med_b": 2.2,
-   "total": 259,
-   "ratio": 1.2,
-   "sector_kr": "커뮤니케이션"
+   "sector": "Financial",
+   "count": 24,
+   "cap_sum_b": 498.2,
+   "cap_med_b": 9.78,
+   "total": 1121,
+   "ratio": 2.1,
+   "sector_kr": "금융"
   },
   {
    "sector": "Energy",
    "count": 3,
-   "cap_sum_b": 69.0,
-   "cap_med_b": 5.4,
+   "cap_sum_b": 68.6,
+   "cap_med_b": 5.29,
    "total": 254,
    "ratio": 1.2,
    "sector_kr": "에너지"
   },
   {
-   "sector": "Basic Materials",
-   "count": 3,
-   "cap_sum_b": 78.6,
-   "cap_med_b": 8.18,
-   "total": 286,
-   "ratio": 1.0,
-   "sector_kr": "소재"
+   "sector": "Communication Services",
+   "count": 1,
+   "cap_sum_b": 2.2,
+   "cap_med_b": 2.16,
+   "total": 259,
+   "ratio": 0.4,
+   "sector_kr": "커뮤니케이션"
   },
   {
    "sector": "Consumer Defensive",
    "count": 1,
    "cap_sum_b": 2.1,
-   "cap_med_b": 2.11,
+   "cap_med_b": 2.1,
    "total": 244,
    "ratio": 0.4,
    "sector_kr": "필수소비재"
@@ -332,8 +332,8 @@
   {
    "sector": "Real Estate",
    "count": 1,
-   "cap_sum_b": 16.9,
-   "cap_med_b": 16.92,
+   "cap_sum_b": 17.2,
+   "cap_med_b": 17.17,
    "total": 253,
    "ratio": 0.4,
    "sector_kr": "부동산/리츠"
@@ -341,141 +341,97 @@
  ],
  "hotspots": [
   {
-   "Sector": "Financial",
-   "Industry": "Banks - Regional",
-   "count": 24,
-   "cap_b": 159.4,
-   "tickers": "FFCNCA, PPNFP, WWBS"
-  },
-  {
-   "Sector": "Financial",
-   "Industry": "Asset Management",
-   "count": 11,
-   "cap_b": 161.4,
-   "tickers": "AAMP, RRJF, BBEN"
+   "Sector": "Healthcare",
+   "Industry": "Biotechnology",
+   "count": 14,
+   "cap_b": 96.8,
+   "tickers": "RRVMD, SSYRE, OORKA"
   },
   {
    "Sector": "Technology",
    "Industry": "Software - Infrastructure",
+   "count": 12,
+   "cap_b": 868.2,
+   "tickers": "PPANW, CCRWD, FFTNT"
+  },
+  {
+   "Sector": "Financial",
+   "Industry": "Asset Management",
+   "count": 10,
+   "cap_b": 168.6,
+   "tickers": "AAMP, RRJF, PPFG"
+  },
+  {
+   "Sector": "Financial",
+   "Industry": "Banks - Regional",
    "count": 8,
-   "cap_b": 243.5,
-   "tickers": "NNET, XXYZ, NNTAP"
-  },
-  {
-   "Sector": "Healthcare",
-   "Industry": "Biotechnology",
-   "count": 5,
-   "cap_b": 16.6,
-   "tickers": "EELVN, PPBLS, MMBX"
-  },
-  {
-   "Sector": "Industrials",
-   "Industry": "Specialty Industrial Machinery",
-   "count": 4,
-   "cap_b": 88.7,
-   "tickers": "AAME, NNDSN, GGTES"
+   "cap_b": 65.3,
+   "tickers": "FFCNCA, WWBS, SSSB"
   },
   {
    "Sector": "Technology",
    "Industry": "Software - Application",
-   "count": 4,
-   "cap_b": 219.9,
-   "tickers": "SSNOW, DDDOG, RRNG"
+   "count": 6,
+   "cap_b": 245.1,
+   "tickers": "SSNOW, DDDOG, DDT"
   },
   {
    "Sector": "Healthcare",
    "Industry": "Diagnostics & Research",
-   "count": 3,
-   "cap_b": 16.7,
-   "tickers": "BBLLN, TTWST, AADPT"
+   "count": 5,
+   "cap_b": 32.6,
+   "tickers": "CCRL, TTWST, BBLLN"
   },
   {
    "Sector": "Industrials",
    "Industry": "Aerospace & Defense",
-   "count": 3,
-   "cap_b": 73.0,
-   "tickers": "HHEI, AARXS, AAIR"
+   "count": 5,
+   "cap_b": 768.6,
+   "tickers": "GGE, RRTX, HHEI"
   },
   {
    "Sector": "Basic Materials",
    "Industry": "Specialty Chemicals",
-   "count": 2,
-   "cap_b": 16.2,
-   "tickers": "NNEU, AAXTA"
+   "count": 4,
+   "cap_b": 41.0,
+   "tickers": "IIFF, AAXTA, NNEU"
   },
   {
-   "Sector": "Communication Services",
-   "Industry": "Advertising Agencies",
-   "count": 2,
-   "cap_b": 4.2,
-   "tickers": "SSTGW, ZZD"
+   "Sector": "Industrials",
+   "Industry": "Industrial Distribution",
+   "count": 3,
+   "cap_b": 38.4,
+   "tickers": "WWCC, AAIT, MMSM"
+  },
+  {
+   "Sector": "Industrials",
+   "Industry": "Specialty Industrial Machinery",
+   "count": 3,
+   "cap_b": 81.3,
+   "tickers": "AAME, NNDSN, CCSW"
   }
  ],
  "leaders": [
-  {
-   "sector": "Financial",
-   "sector_kr": "금융",
-   "ticker": "JJPM",
-   "name": "JPMorgan Chase & Co",
-   "industry": "Banks - Diversified",
-   "cap_b": 958.0,
-   "pe": 15.32,
-   "change": "0.0138",
-   "ret_3m": null
-  },
-  {
-   "sector": "Financial",
-   "sector_kr": "금융",
-   "ticker": "BBAC",
-   "name": "Bank Of America Corp",
-   "industry": "Banks - Diversified",
-   "cap_b": 439.8,
-   "pe": 14.48,
-   "change": "0.0067",
-   "ret_3m": null
-  },
-  {
-   "sector": "Financial",
-   "sector_kr": "금융",
-   "ticker": "AAMP",
-   "name": "Ameriprise Financial Inc",
-   "industry": "Asset Management",
-   "cap_b": 49.8,
-   "pe": 13.35,
-   "change": "0.0027",
-   "ret_3m": null
-  },
-  {
-   "sector": "Financial",
-   "sector_kr": "금융",
-   "ticker": "RRJF",
-   "name": "Raymond James Financial Inc",
-   "industry": "Asset Management",
-   "cap_b": 34.3,
-   "pe": 15.57,
-   "change": "0.005",
-   "ret_3m": null
-  },
-  {
-   "sector": "Financial",
-   "sector_kr": "금융",
-   "ticker": "FFCNCA",
-   "name": "First Citizens Bancshares Inc (NC)",
-   "industry": "Banks - Regional",
-   "cap_b": 25.7,
-   "pe": 12.04,
-   "change": "0.015",
-   "ret_3m": null
-  },
   {
    "sector": "Technology",
    "sector_kr": "IT/기술",
    "ticker": "DDELL",
    "name": "Dell Technologies Inc",
    "industry": "Computer Hardware",
-   "cap_b": 302.9,
-   "pe": 37.13,
-   "change": "0.0892",
+   "cap_b": 300.0,
+   "pe": 36.77,
+   "change": "-0.0098",
+   "ret_3m": null
+  },
+  {
+   "sector": "Technology",
+   "sector_kr": "IT/기술",
+   "ticker": "PPANW",
+   "name": "Palo Alto Networks Inc",
+   "industry": "Software - Infrastructure",
+   "cap_b": 295.6,
+   "pe": 298.31,
+   "change": "-0.01",
    "ret_3m": null
   },
   {
@@ -484,42 +440,97 @@
    "ticker": "AANET",
    "name": "Arista Networks Inc",
    "industry": "Computer Hardware",
-   "cap_b": 239.9,
-   "pe": 65.23,
-   "change": "0.0304",
+   "cap_b": 248.4,
+   "pe": 67.56,
+   "change": "0.035699999999999996",
    "ret_3m": null
   },
   {
    "sector": "Technology",
    "sector_kr": "IT/기술",
-   "ticker": "SSNOW",
-   "name": "Snowflake Inc",
-   "industry": "Software - Application",
-   "cap_b": 109.8,
-   "pe": null,
-   "change": "0.03",
-   "ret_3m": null
-  },
-  {
-   "sector": "Technology",
-   "sector_kr": "IT/기술",
-   "ticker": "NNET",
-   "name": "Cloudflare Inc",
+   "ticker": "CCRWD",
+   "name": "Crowdstrike Holdings Inc",
    "industry": "Software - Infrastructure",
-   "cap_b": 107.0,
+   "cap_b": 213.7,
    "pe": null,
-   "change": "0.06570000000000001",
+   "change": "-0.0064",
    "ret_3m": null
   },
   {
    "sector": "Technology",
    "sector_kr": "IT/기술",
-   "ticker": "DDDOG",
-   "name": "Datadog Inc",
-   "industry": "Software - Application",
-   "cap_b": 102.6,
-   "pe": 769.02,
-   "change": "0.053200000000000004",
+   "ticker": "FFTNT",
+   "name": "Fortinet Inc",
+   "industry": "Software - Infrastructure",
+   "cap_b": 120.4,
+   "pe": 57.83,
+   "change": "-0.024700000000000003",
+   "ret_3m": null
+  },
+  {
+   "sector": "Industrials",
+   "sector_kr": "산업재",
+   "ticker": "GGE",
+   "name": "GE Aerospace",
+   "industry": "Aerospace & Defense",
+   "cap_b": 395.5,
+   "pe": 44.93,
+   "change": "0.0104",
+   "ret_3m": null
+  },
+  {
+   "sector": "Industrials",
+   "sector_kr": "산업재",
+   "ticker": "RRTX",
+   "name": "RTX Corp",
+   "industry": "Aerospace & Defense",
+   "cap_b": 299.6,
+   "pe": 39.15,
+   "change": "0.020099999999999996",
+   "ret_3m": null
+  },
+  {
+   "sector": "Industrials",
+   "sector_kr": "산업재",
+   "ticker": "AAME",
+   "name": "Ametek Inc",
+   "industry": "Specialty Industrial Machinery",
+   "cap_b": 58.4,
+   "pe": 38.49,
+   "change": "0.0028000000000000004",
+   "ret_3m": -38.2
+  },
+  {
+   "sector": "Industrials",
+   "sector_kr": "산업재",
+   "ticker": "HHEI",
+   "name": "Heico Corp",
+   "industry": "Aerospace & Defense",
+   "cap_b": 42.7,
+   "pe": 65.51,
+   "change": "-0.0023",
+   "ret_3m": null
+  },
+  {
+   "sector": "Industrials",
+   "sector_kr": "산업재",
+   "ticker": "AATI",
+   "name": "ATI Inc",
+   "industry": "Metal Fabrication",
+   "cap_b": 28.0,
+   "pe": 67.64,
+   "change": "0.0248",
+   "ret_3m": null
+  },
+  {
+   "sector": "Consumer Cyclical",
+   "sector_kr": "경기소비재",
+   "ticker": "EEXPE",
+   "name": "Expedia Group Inc",
+   "industry": "Travel Services",
+   "cap_b": 38.4,
+   "pe": 28.15,
+   "change": "0.024399999999999998",
    "ret_3m": null
   },
   {
@@ -528,9 +539,9 @@
    "ticker": "WWSM",
    "name": "Williams-Sonoma Inc",
    "industry": "Specialty Retail",
-   "cap_b": 29.3,
-   "pe": 27.86,
-   "change": "0.0379",
+   "cap_b": 29.2,
+   "pe": 27.79,
+   "change": "-0.0026",
    "ret_3m": null
   },
   {
@@ -539,44 +550,33 @@
    "ticker": "SSN",
    "name": "SharkNinja Inc",
    "industry": "Furnishings, Fixtures & Appliances",
-   "cap_b": 23.8,
-   "pe": 33.9,
-   "change": "0.0475",
+   "cap_b": 25.8,
+   "pe": 36.71,
+   "change": "0.0828",
    "ret_3m": null
   },
   {
    "sector": "Consumer Cyclical",
    "sector_kr": "경기소비재",
-   "ticker": "MM",
-   "name": "Macy's Inc",
-   "industry": "Department Stores",
-   "cap_b": 6.9,
-   "pe": 10.78,
-   "change": "0.01",
+   "ticker": "CCCK",
+   "name": "Crown Holdings Inc",
+   "industry": "Packaging & Containers",
+   "cap_b": 13.3,
+   "pe": 17.58,
+   "change": "0.0039000000000000003",
    "ret_3m": null
   },
   {
    "sector": "Consumer Cyclical",
    "sector_kr": "경기소비재",
-   "ticker": "CCROX",
-   "name": "Crocs Inc",
-   "industry": "Footwear & Accessories",
-   "cap_b": 6.8,
-   "pe": 12.2,
-   "change": "0.0467",
-   "ret_3m": null
-  },
-  {
-   "sector": "Consumer Cyclical",
-   "sector_kr": "경기소비재",
-   "ticker": "AALH",
-   "name": "Alliance Laundry Holdings Inc",
-   "industry": "Furnishings, Fixtures & Appliances",
-   "cap_b": 5.5,
-   "pe": null,
-   "change": "0.0504",
+   "ticker": "EEAT",
+   "name": "Brinker International Inc",
+   "industry": "Restaurants",
+   "cap_b": 9.7,
+   "pe": 22.13,
+   "change": "0.0354",
    "ret_3m": null
   }
  ],
- "insight_md": "## 오늘의 정량 시그널\n\n- **금융**: 신고가 40개 (섹터 내 3.6%), 시총합 $1741.0B\n- **IT/기술**: 신고가 16개 (섹터 내 2.0%), 시총합 $1028.0B\n- **경기소비재**: 신고가 10개 (섹터 내 1.9%), 시총합 $93.5B\n\n**신고가 종목 중앙값 시총 $6.1B** — 중대형주 동반 랠리로 질적으로 양호합니다.\n\n**최다 산업 핫스팟**: Banks - Regional (24개 · 대표 FFCNCA, PPNFP, WWBS)\n\n> Claude API 키를 설정하면 뉴스 기반 원인 분석이 자동 추가됩니다."
+ "insight_md": "## 오늘의 정량 시그널\n\n- **IT/기술**: 신고가 23개 (섹터 내 2.9%), 시총합 $1691.5B\n- **산업재**: 신고가 19개 (섹터 내 2.7%), 시총합 $970.3B\n- **경기소비재**: 신고가 14개 (섹터 내 2.6%), 시총합 $161.7B\n\n**신고가 종목 중앙값 시총 $8.0B** — 중대형주 동반 랠리로 질적으로 양호합니다.\n\n**최다 산업 핫스팟**: Biotechnology (14개 · 대표 RRVMD, SSYRE, OORKA)\n\n> Claude API 키를 설정하면 뉴스 기반 원인 분석이 자동 추가됩니다."
 }
